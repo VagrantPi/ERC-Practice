@@ -116,3 +116,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# HardHat
+ERC20/artifacts
+ERC20/cache
